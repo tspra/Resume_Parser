@@ -1,0 +1,16 @@
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\obj\Debug\netcoreapp3.1\ResumeParserCore.csproj.AssemblyReference.cache
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\obj\Debug\netcoreapp3.1\ResumeParserCore.csproj.ResolveComReference.cache
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\obj\Debug\netcoreapp3.1\ResumeParserCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\obj\Debug\netcoreapp3.1\ResumeParserCore.AssemblyInfoInputs.cache
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\obj\Debug\netcoreapp3.1\ResumeParserCore.AssemblyInfo.cs
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\obj\Debug\netcoreapp3.1\ResumeParserCore.csproj.CoreCompileInputs.cache
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\bin\Debug\netcoreapp3.1\ResumeParserCore.deps.json
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\bin\Debug\netcoreapp3.1\ResumeParserCore.dll
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\bin\Debug\netcoreapp3.1\ResumeParserCore.pdb
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\bin\Debug\netcoreapp3.1\ResumeParserModel.dll
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\bin\Debug\netcoreapp3.1\ResumeParserModel.pdb
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\obj\Debug\netcoreapp3.1\ResumeParserCore.csproj.CopyComplete
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\obj\Debug\netcoreapp3.1\ResumeParserCore.dll
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserCore\obj\Debug\netcoreapp3.1\ResumeParserCore.pdb

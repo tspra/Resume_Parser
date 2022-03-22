@@ -1,0 +1,9 @@
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserModel\bin\Debug\netcoreapp3.1\ResumeParserModel.deps.json
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserModel\bin\Debug\netcoreapp3.1\ResumeParserModel.dll
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserModel\bin\Debug\netcoreapp3.1\ResumeParserModel.pdb
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserModel\obj\Debug\netcoreapp3.1\ResumeParserModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserModel\obj\Debug\netcoreapp3.1\ResumeParserModel.AssemblyInfoInputs.cache
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserModel\obj\Debug\netcoreapp3.1\ResumeParserModel.AssemblyInfo.cs
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserModel\obj\Debug\netcoreapp3.1\ResumeParserModel.csproj.CoreCompileInputs.cache
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserModel\obj\Debug\netcoreapp3.1\ResumeParserModel.dll
+D:\Technical Data\Resume Parser\ResumeParserService\ResumeParserModel\obj\Debug\netcoreapp3.1\ResumeParserModel.pdb
